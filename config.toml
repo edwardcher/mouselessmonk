@@ -20,8 +20,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Edwardcher Monreal"
-intro = "Security Consultant, IT Pragmatist and Avid Technologist"
-description = "Edward has 15+ years experience in the IT industry and maintains an intrinsic passion for finding Pragmatic Technologies that composes to solve practical problems. He doesn't like to reinvent the wheel, but when he finds the wheel is broken or square he's not afraid to build a round one."
+intro = "Digital Security Expert and Avid Technologist"
+description = "Edward has 20+ years experience in the IT industry and maintains an intrinsic passion for finding Pragmatic Technologies that composes to solve practical problems. He doesn't like to reinvent the wheel, but when he finds the wheel is broken or square he's not afraid to build a round one."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2016"
 
@@ -37,7 +37,7 @@ email = "edwardcher.monreal@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. Edwardcher Monreal. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2017. Edwardcher. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = false
 highlightjs = true
 
